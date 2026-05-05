@@ -1,0 +1,12 @@
+{
+  "name": "minseo-toolkit",
+  "description": "강민서 개인 Claude Code 툴킷: 21개 dev agent + 24개 회사 부서 agent + 워크플로우 + CLAUDE.md template",
+  "version": "1.0.0",
+  "keywords": [
+    "personal",
+    "agents",
+    "company-org",
+    "workflow",
+    "korean"
+  ]
+}
