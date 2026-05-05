@@ -10,7 +10,7 @@
     {
       "name": "minseo-toolkit",
       "description": "강민서 개인 Claude Code 툴킷: 21개 dev agent + 24개 회사 부서 agent + 워크플로우 + CLAUDE.md template + 4개 단일 SKILL",
-      "source": ".",
+      "source": "./plugins/minseo-toolkit",
       "category": "personal",
       "homepage": "https://github.com/approvalsb/minseo-toolkit"
     }
